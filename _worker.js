@@ -25,7 +25,7 @@ let parsedSocks5Address = {};
 let enableSocks = false;
 
 // 虚假uuid和hostname，用于发送给配置生成服务
-let fakeUserID = generateUUID();
+let fakeUserID = generateUUID();75ce2d7a-b4ba-4bbf-b997-66c21355a035
 let fakeHostName = generateRandomString();
 let tls = true;
 export default {
